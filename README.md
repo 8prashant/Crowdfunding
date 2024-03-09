@@ -14,16 +14,17 @@ Jai Jawan leverages the power of smart contracts to streamline the crowdfunding 
 * **React:** A JavaScript library for building user interfaces, providing a dynamic and interactive experience for donors on the Jai Jawan platform.
 * **Web3.js:** A JavaScript library that facilitates communication with the Ethereum blockchain from within the React application. Web3.js enables functionalities such as connecting to the blockchain, interacting with smart contracts, and managing Ethereum transactions.
 
-## Project Structure (Optional)
+## Project Structure
 jai-jawan/
-├── contracts/  # Contains the Solidity smart contracts for the project
-│   └── JaiJawan.sol  # Main smart contract for managing donations
-├── src/         # Contains the React application code
-│   ├── components/  # Reusable UI components
-│   ├── pages/       # React application pages (e.g., LandingPage.js, DonationForm.js)
-│   └── utils/       # Helper functions and utilities
-├── README.md     # This file (project documentation)
-└── package.json  # Project dependencies and configuration
+├── contracts/   # Contains the Solidity smart contracts for the project
+│   └── JaiJawan.sol   # Main smart contract for managing donations
+├── src/          # Contains the React application code
+│   ├── components/   # Reusable UI components
+│   ├── pages/        # React application pages (e.g., LandingPage.js, DonationForm.js)
+│   └── utils/        # Helper functions and utilities
+├── README.md      # This file (project documentation)
+└── package.json   # Project dependencies and configuration
+
 
 **Note:** This section is optional and can be tailored to your specific project structure.
 
